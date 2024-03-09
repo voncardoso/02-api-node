@@ -1,3 +1,4 @@
 ./node_modules
 .env
 db/app.db
+node_modules
